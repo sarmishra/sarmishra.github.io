@@ -4,29 +4,29 @@
 @import "override.css";
 @import "twitter.css";
 .tag{
-      background-color: #339933;
+      background-color: #636c72;
       display: inline-block;
       padding: .4em .4em;
       margin: 4px 0px;
       font-size: 75%;
       font-weight: 700;
       line-height: 1;
-      color: #FF9933;
+      color: #fff;
       text-align: center;
       white-space: nowrap;
       vertical-align: baseline;
       border-radius: .25rem;
   
   &.primary{
-    background-color: #333399;
+    background-color: #337ab7;
   }
   
   &.success{
-    background-color: #990099;
+    background-color: #5cb85c;
   }
 
   &.info{
-  background-color: #FF3300;
+  background-color: #5bc0de;
 
   }
 }
