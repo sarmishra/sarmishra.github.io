@@ -7,7 +7,7 @@ category:
 - Note
 ---
 
-##information.
+## Information.
 
 Iwas stared to blogging.
 Every thing is good.
