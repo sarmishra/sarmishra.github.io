@@ -13,23 +13,23 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-author: Shiva Gaire - GeekSambhu
-title: Programming Stuffs and Learning
-email: geeksambhu@gmail.com
-description: This is the part of my day to day learning #> # this means to ignore newlines until "baseurl:"
+author: Saroj Mishra - sarmishra
+title: My Personal Blog 
+email: saroj.mishra773@gmail.com
+description: This is the part how iam study and what i know. #> # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://geeksambhu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-preview_image_url: https://avatars0.githubusercontent.com/u/9899283?v=3&s=460
-twitter_username: geeksambhu
-github_username: geeksambhu
-linkedin_username: geeksambhu
-facebook:
-        appid: 831054347059208
-so_nickname: geeksambhu
+url: "https://sarmishra.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+preview_image_url: https://avatars3.githubusercontent.com/u/9898138?s=460&v=4
+twitter_username: SarMishra33
+github_username: sarmishra
+linkedin_username: in/saroj-mishra-135842136/
+facebook: 
+        appid: 2104120559821260
+so_nickname: saroj.mishra.771
 so_uid: 7306868
 github:
-  repository_name: geeksambhu
-  project_tagline: A part of my continuous learning
+  repository_name: sarmishra.github.io
+  project_tagline: A part of my continuous doing
 # Build settings
 highlighter: rouge
 paginate: 5
