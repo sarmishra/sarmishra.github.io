@@ -2,11 +2,11 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title:          Programming Stuffs and Learning
+title:          Programming Knowledge and idea
 layout:         default
 comments:       false
 ---
-Hi, Welcome !
+Hello Guys!
 ## My Latest posts
 {% include latest-posts.html %}
 
