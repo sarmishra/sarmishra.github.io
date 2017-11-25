@@ -10,7 +10,6 @@ Markdown is a standard to simplify writing content for the web. GitHub markdown 
 
 ### This Markdown code:
 
-<!---
 
 ## Heading two
 
@@ -32,4 +31,4 @@ Numbered:
 
 > Block quote.
 
--->
+
