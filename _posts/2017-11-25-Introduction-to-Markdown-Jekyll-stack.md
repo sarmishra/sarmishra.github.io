@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Markdown!"
+title:  "Introducation of Markdown!"
 date:   2017-11-25 09:49:07 +0545
 categories: Content writing for markdown
 ---
 
 ## Markdown
-Markdown is a standard to simplify writing content for the web. GitHub markdown flavor can be used any where on GitHub and in Jekyll. The basics are intuitive, you can learn in about a minute!
+Markdown is a standard to simplify writing content for the web. GitHub markdown flavor can be used any where on GitHub and in Jekyll. The basics are intuitive, you can learn in about a minute. it has `.md` extension.
 
 ### This Markdown code:
 
@@ -54,6 +54,5 @@ Numbered:
 2. two 
 
 > Block quote.
-
 ----
 
