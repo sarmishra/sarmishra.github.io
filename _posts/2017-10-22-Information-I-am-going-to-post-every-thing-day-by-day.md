@@ -1,5 +1,5 @@
 ---
-title: Information about posing
+title: Information about posting
 layout: post
 tags:
 - Must Read
