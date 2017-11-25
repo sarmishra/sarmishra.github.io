@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Installing Proess of Git"
-tags
-- Windows,  Linux,  Mac, GUI
+title: "Installing Proess of Git"
+tags:
+- Windows, Linux, Mac, GUI
 category:
 - Git
 ---
