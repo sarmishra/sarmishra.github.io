@@ -1,13 +1,12 @@
-
 ---
 layout: post
-title: Installing Proess of Git
-tags:
+title:  "Installing Proess of Git"
+date:   2017-11-15 09:49:07 +0545
+tags
 - Windows,  Linux,  Mac, GUI
 category:
 - Git
 ---
-
 
 ## Install Git
 
