@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducation of Markdown!"
+title:  "Introducation of Markdown"
 date:   2017-11-25 09:49:07 +0545
 category:
 - markdown
