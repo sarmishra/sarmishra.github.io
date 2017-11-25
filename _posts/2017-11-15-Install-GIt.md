@@ -1,9 +1,9 @@
 
 ---
-layout: default
+layout: post
 title: Installing Proess of Git
 tags:
-- windows,  linux,  Mac, GUI
+- Windows,  Linux,  Mac, GUI
 category:
 - Git
 ---
