@@ -16,7 +16,7 @@
 author: Saroj Mishra - sarmishra
 title: My Personal Blog 
 email: saroj.mishra773@gmail.com
-description: This is the part how iam study and what i know. #> # this means to ignore newlines until "baseurl:"
+description: This is a part of my study  #> # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sarmishra.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 preview_image_url: https://avatars3.githubusercontent.com/u/9898138?s=460&v=4
