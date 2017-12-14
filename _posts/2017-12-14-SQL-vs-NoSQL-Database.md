@@ -19,22 +19,22 @@ It is a programming language used by database architects to design relational da
 
 ### Popular SQL databases and RDBMS’s
 
-`MySQL`—the most popular open-source database, excellent for CMS sites and blogs.
+- `MySQL`—the most popular open-source database, excellent for CMS sites and blogs.
 
-`Oracle`—an object-relational DBMS written in the C++ language. If you have the budget, this is a full-service option with     great customer service and reliability. Oracle has also released an Oracle NoSQL database.
+- `Oracle`—an object-relational DBMS written in the C++ language. If you have the budget, this is a full-service option with     great customer service and reliability. Oracle has also released an Oracle NoSQL database.
 
-`IMB DB2`—a family of database server products from IBM that are built to handle advanced “big data” analytics.
+- `IMB DB2`—a family of database server products from IBM that are built to handle advanced “big data” analytics.
 
-`Sybase`—a relational model database server product for businesses primarily used on the Unix OS, which was the first 
+- `Sybase`—a relational model database server product for businesses primarily used on the Unix OS, which was the first 
   enterprise-level DBMS for Linux.
 
-`MS SQL Serve`r—a Microsoft-developed RDBMS for enterprise-level databases that supports both SQL and NoSQL architectures.
+- `MS SQL Serve`r—a Microsoft-developed RDBMS for enterprise-level databases that supports both SQL and NoSQL architectures.
 
-`Microsoft Azure`—a cloud computing platform that supports any operating system, and lets you store, compute, and scale data   in one place. A recent survey even put it ahead of Amazon Web Services and Google Cloud Storage for corporate data           storage.
+- `Microsoft Azure`—a cloud computing platform that supports any operating system, and lets you store, compute, and scale         data in one place. A recent survey even put it ahead of Amazon Web Services and Google Cloud Storage for corporate data       storage.
 
-`MariaDB`—an enhanced, drop-in version of MySQL.
+- `MariaDB`—an enhanced, drop-in version of MySQL.
 
-`PostgreSQL`—an enterprise-level, object-relational DBMS that uses procedural languages like Perl and Python, in addition to   SQL-level code.
+- `PostgreSQL`—an enterprise-level, object-relational DBMS that uses procedural languages like Perl and Python, in addition       to SQL-level code.
 
 
 ## NOSQL DATABASES: NON-RELATIONAL & DISTRIBUTED DATA
@@ -47,14 +47,14 @@ How do NoSQL databases work? Instead of tables, NoSQL databases are `document-or
 
 ### Popular NoSQL Databases
 
-`MongoDB`—the most popular NoSQL system, especially among startups. A document-oriented database with JSON-like documents in   dynamic schemas instead of relational tables that’s used on the back end of sites like Craigslist, eBay, Foursquare. It’s     open-source, so it’s free, with good customer service. Read more in Should You Use MongoDB? A Look at the Leading NoSQL       Database.
+- `MongoDB`—the most popular NoSQL system, especially among startups. A document-oriented database with JSON-like documents       in dynamic schemas instead of relational tables that’s used on the back end of sites like Craigslist, eBay, Foursquare.       It’s open-source, so it’s free, with good customer service. Read more in Should You Use MongoDB? A Look at the Leading       NoSQL Database.
 
-`Apache’s CouchDB`—a true DB for the web, it uses the JSON data exchange format to store its documents; JavaScript for         indexing, combining and transforming documents; and, HTTP for its API.
+- `Apache’s CouchDB`—a true DB for the web, it uses the JSON data exchange format to store its documents; JavaScript for         indexing, combining and transforming documents; and, HTTP for its API.
 
-`HBase`—another Apache project, developed as a part of Hadoop, this open-source, non-relational “column store” NoSQL DB is     written in Java, and provides BigTable-like capabilities.
+- `HBase`—another Apache project, developed as a part of Hadoop, this open-source, non-relational “column store” NoSQL DB is     written in Java, and provides BigTable-like capabilities.
 
-`Oracle NoSQ`L—Oracle’s entry into the NoSQL category.
+- `Oracle NoSQ`L—Oracle’s entry into the NoSQL category.
 
-`Apache’s Cassandra DB`—born at Facebook, Cassandra is a distributed database that’s great at handling massive amounts of       structured data. Anticipate a growing application? Cassandra is excellent at scaling up. Examples: Instagram, Comcast,       Apple, and Spotify.
+- `Apache’s Cassandra DB`—born at Facebook, Cassandra is a distributed database that’s great at handling massive amounts of       structured data. Anticipate a growing application? Cassandra is excellent at scaling up. Examples: Instagram, Comcast,       Apple, and Spotify.
 
-`Riak`—an open-source key-value store database written in Erlang. It has fault-tolerance replication and automatic data         distribution built in for excellent performance.
+- `Riak`—an open-source key-value store database written in Erlang. It has fault-tolerance replication and automatic data         distribution built in for excellent performance.
