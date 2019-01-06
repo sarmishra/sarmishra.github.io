@@ -8,8 +8,7 @@ description: Saroj Mishra
 
 Hello Everyone,
 
-I am hard worker and fully dedicated to my work or what thing i do. I love coding and playing with code.
-Iam intrested in `Python`, `Django`, `Mchine learning`, `Big data` and `data mining` related filed so that iam learning it and want do    someting on it. I feel more happy to knew new and intresting things and to visit different places.
+I am a Computer Engineer. I love coding and playing with code. I perfer to do hard work and i am fully dedicated to my work or the things  what i do. I am intrested in `Python`, `Django`, `Mchine learning`, `Big data` and `data mining` related fields. Therefore, i want to learn & do more on this fields. On the other hand, I feel more happy to know about new  places and interesting things. Also, to visit different places.
  
 > Thank you ....!!!
 
