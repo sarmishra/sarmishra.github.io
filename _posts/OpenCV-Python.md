@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Introduction of OpenCV-Python"
