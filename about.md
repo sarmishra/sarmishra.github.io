@@ -6,9 +6,9 @@ permalink: "/about/"
 description: Saroj Mishra
 ---
 
-Hello Everyone,
+Hi everyone,
 
-I am a Computer Engineer. I love coding and playing with code. I perfer to do hard work and i am fully dedicated to my work or the things  what i do. I am intrested in `Python`, `Django`, `Mchine learning`, `Big data` and `data mining` related fields. Therefore, i want to learn & do more on this fields. On the other hand, I feel more happy to know about new  places and interesting things. Also, to visit different places.
+I am a tech enthusiast and a passionate person who believes in hard work, responsibility, interest, and motivation as the driving forces to reach any goal. I always like to find more efficient ways to solve a problem.
  
-> Thank you ....!!!
+> Thank you.
 
