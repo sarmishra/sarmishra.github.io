@@ -1,0 +1,1 @@
+- Graduate Teaching Assistant (GTA) with full funding for Graduate Studies, 2020.
