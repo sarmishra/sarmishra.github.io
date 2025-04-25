@@ -1,1 +1,2 @@
 - Graduate Teaching Assistant (GTA) with full funding for Graduate Studies, 2020.
+- Saroj Mishra\*, Hassan Reza (2022). A Face Recognition Method Using Deep Learning to Identify Mask and Unmask Objects <strong>2022 IEEE World AI IoT Congress (AIIoT)</strong>. [[Paper]](https://ieeexplore.ieee.org/document/9817324)
