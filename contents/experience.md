@@ -1,14 +1,14 @@
 #### GOLDMAN SACHS
-Software Engineer, Dallas, TX (Sept 2022 – Jan 2025)
+Software Engineer, <i> Dallas, TX (Sept 2022 – Jan 2025) </i>
 
 #### NORTH DAKOTA UNIVERSITY SYSTEM
-Associate Programmer Analyst, Grand Forks, North Dakota (Jun 2022 - Sept 2022)
+Associate Programmer Analyst, <i> Grand Forks, North Dakota (Jun 2022 - Sept 2022) </i>
 
 #### UNIVERSITY OF NORTH DAKOTA
-Graduate Teaching Assistant, Grand Forks, North Dakota (Jan 2020 - May 2022)
+Graduate Teaching Assistant, <i> Grand Forks, North Dakota (Jan 2020 - May 2022) </i>
 
 #### STAX FINANCIAL TECHNOLOGIES
-Python Developer Intern, Kalamazoo, Michigan (May 2021 - Aug 2021)
+Python Developer Intern, <i> Kalamazoo, Michigan (May 2021 - Aug 2021) </i>
 
 #### GENALIZE TECHNOLOGIES PVT LTD
-Software Engineer, Kathmandu, Nepal (Jul 2017 - Dec 2019)
+Software Engineer, <i> Kathmandu, Nepal (Jul 2017 - Dec 2019) </i>
