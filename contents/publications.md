@@ -1,0 +1,6 @@
+- **Cascading Hallucination in Agentic RAG: The CHARM Framework for Detection and Mitigation in Multi-Step Reasoning Systems**, <i>arXiv preprint, 2026</i>. [[View]](https://arxiv.org/abs/2606.04435)
+- **Zero-Trust Security Architecture for MCP-Connected AI Agents: Enforcement Frameworks for Secure Tool Integration and Data Access Control**, <i>IEEE COINS 2026</i>.
+- **Trustworthy Agentic AI Pipelines: Human-in-the-Loop Oversight Architectures for Secure Enterprise Deployment**, <i>IEEE COINS 2026</i>.
+- **SoK: Agentic Retrieval-Augmented Generation (RAG): Taxonomy, Architectures, Evaluation, and Research Directions**, <i>2026</i>.
+- **Systematization of Knowledge: Security and Safety in the Model Context Protocol Ecosystem**, <i>2025</i>.
+- **A Face Recognition Method Using Deep Learning to Identify Mask and Unmask Objects**, <i>2022 IEEE World AI IoT Congress (AIIoT)</i>. [[View]](https://ieeexplore.ieee.org/document/9817324)
