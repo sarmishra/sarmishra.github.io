@@ -1,8 +1,6 @@
-
-
 const content_dir = 'contents/'
 const config_file = 'config.yml'
-const section_names = ['home', 'experience', 'achievements']
+const section_names = ['home', 'experience', 'publications', 'achievements']
 
 
 window.addEventListener('DOMContentLoaded', event => {
@@ -62,4 +60,4 @@ window.addEventListener('DOMContentLoaded', event => {
             .catch(error => console.log(error));
     })
 
-}); 
+});
