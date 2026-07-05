@@ -1,6 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ersarojmishra-blue?logo=linkedin)](https://linkedin.com/in/ersarojmishra)
 [![GitHub](https://img.shields.io/badge/GitHub-sarmishra-181717?logo=github)](https://github.com/sarmishra)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?logo=googlescholar)](https://scholar.google.com/citations?user=YOUR_ID)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?logo=googlescholar)](https://scholar.google.com/citations?user=rQZ9NSYAAAAJ&hl=en)
 
 
 I’m an AI/LLM engineer and researcher based in Dallas, Texas. I build agentic AI systems, RAG pipelines, and trustworthy AI infrastructure — and I publish research on secure agent architectures, MCP security, and hallucination mitigation. Currently at MaxModus, delivering zero-to-one AI products for small and medium businesses. Previously at Goldman Sachs, where I engineered federally regulated financial data platforms handling billions in daily transactions.
