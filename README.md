@@ -1,54 +1,82 @@
-## Introduction
+# Saroj Mishra — Personal Website
 
-My personal website is based on [bootstrap](https://github.com/StartBootstrap/startbootstrap-new-age).
+Personal portfolio and research homepage.
+Built as a static site with client-side Markdown rendering — no build step required.
 
-The template is designed to integrate Markdown files as content input. There's no need to compile the webpage before deployment. Upon loading, the Markdown files are automatically parsed and embedded into the page.
+🌐 **Live:** https://sarmishra.github.io/
 
-:milky_way: Demo: https://sarmishra.github.io/
+## About
 
-## Getting started with this template
+I'm an AI/LLM engineer and researcher based in Dallas, Texas. I build agentic AI systems, RAG pipelines, and trustworthy AI infrastructure, and I publish research on secure agent architectures, MCP security, and hallucination mitigation. Currently at MaxModus. Previously at Goldman Sachs.
 
-### 1. Fork this repository
+## Sections on the site
 
-The repository name should be `<username>.github.io`, which will also be your website's URL.
+- **About** — background, current work, education, and research focus
+- **Experience** — professional history
+- **Publications** — research on agentic AI, LLM security, MCP, and RAG
+- **Achievements** — awards and certifications
 
-### 2. Edit page content
+## Stack
 
-(1) Go to the folder where you want to store your project, and clone the new repository:
+Vanilla HTML + Bootstrap 5 + client-side Markdown rendering via [marked.js](https://marked.js.org/) and [js-yaml](https://github.com/nodeca/js-yaml). MathJax for equations. No build step, no framework, no server-side rendering.
 
-```
-git clone https://github.com/<username>/<username>.github.io.git
-```
+Based on [StartBootstrap's New Age](https://github.com/StartBootstrap/startbootstrap-new-age) template.
 
-The directory structure is as follows:
-
-```.
-.
-├── contents
-└── static
-    ├── assets
-    │   └── img
-    ├── css
-    └── js
-```
-
-(2) Modify the content of each section, which corresponds to `contents/*.md`.
-
-(3) Adjust the title, copyright information, and other text of the website in `contents/config.yml`
-
-(4) Replace background image and photo with new ones for your web pages in `static/assets/img/`
-
-(5) Push it:
+## Structure
 
 ```
-git commit -am 'init'
-git push
+sarmishra.github.io/
+├── index.html                    # Page shell, section anchors, footer links
+├── contents/                     # All editable content
+│   ├── config.yml                # Site title, tagline, copyright
+│   ├── home.md                   # About section
+│   ├── experience.md             # Roles + brief impact summaries
+│   ├── publications.md           # Papers
+│   └── achievements.md           # Awards + certifications
+└── static/
+    ├── assets/
+    │   ├── favicon.ico           # SM monogram favicon
+    │   └── img/
+    │       ├── background.jpeg   # Hero band (network graph, 1920x400)
+    │       └── photo.png         # Profile photo
+    ├── css/
+    │   ├── styles.css            # Bootstrap base
+    │   └── main.css              # Custom overrides + section gradients
+    └── js/
+        ├── scripts.js            # Section loader, YAML config, scrollspy
+        ├── bootstrap.bundle.min.js
+        ├── marked.min.js
+        └── js-yaml.min.js
 ```
 
-### 3. Enjoy
+## Local development
 
-Fire up a browser and go to `https://<username>.github.io`
+Clone and serve — no build step:
+
+```bash
+git clone https://github.com/sarmishra/sarmishra.github.io.git
+cd sarmishra.github.io
+python3 -m http.server 8000
+# Visit http://localhost:8000
+```
+
+Any static server works. `fetch()` from `file://` URLs is blocked in most browsers, so you must serve rather than open `index.html` directly.
+
+## Editing content
+
+- **Change tagline, title, or copyright** → edit `contents/config.yml`. Each YAML key must exactly match a DOM element `id` in `index.html`; unrecognized keys are silently ignored (see `scripts.js` line 40).
+- **Edit an existing section's text** → edit the matching `contents/<name>.md`.
+- **Add a new section** requires **three coordinated edits**:
+  1. Create `contents/<newname>.md`
+  2. Add `'<newname>'` to the `section_names` array in `static/js/scripts.js`
+  3. Add a `<section id="<newname>">` block in `index.html` containing a `<div id="<newname>-md">` mount point and, optionally, a `<h2 id="<newname>-subtitle">` header
+  
+  Skipping any one of these causes the section to silently not render.
+
+## Deployment
+
+GitHub Pages auto-deploys from `main` on push. No CI, no build.
 
 ## License
 
-Copyright Saroj Mishra, 2025. Licensed under an MIT license. You can copy and mess with this template.
+MIT. See [LICENSE](LICENSE).
