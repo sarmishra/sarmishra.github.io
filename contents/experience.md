@@ -1,12 +1,12 @@
 #### MAXMODUS
 <b>Senior AI Software Engineer</b>, <i>Remote (Present) </i>
 
-Building agentic AI platforms, RAG systems, and multi-agent workflows on AWS — shipping zero-to-one products that drive 5× productivity gains for SMB customers.
+Building agentic AI platforms, RAG systems, and multi-agent workflows on AWS — shipping zero-to-one products that drive 10× productivity gains for SMB customers.
 
 #### GOLDMAN SACHS
 <b>Software Engineer</b>, <i>Dallas, TX (Sept 2022 – Jan 2025) </i>
 
-Engineered a regulated global financial platform processing $25B/day in cash and securities, delivering DTC T+1 compliance and migrating ETL pipelines to a Lakehouse architecture.
+Built and modernized regulated financial infrastructure processing $25B/day, delivering DTC T+1 compliance and large-scale ETL modernization via a Lakehouse architecture.
 
 #### NORTH DAKOTA UNIVERSITY SYSTEM
 <b>Associate Programmer Analyst</b>, <i>Grand Forks, ND (Jun 2022 - Sept 2022) </i>
