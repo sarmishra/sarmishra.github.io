@@ -1,4 +1,6 @@
-- Graduate Teaching Assistantship (GTA) with full funding for Graduate Studies, University of North Dakota, 2020.
-- Certification on Deep Learning Course by Udemy. [[View]](https://www.udemy.com/certificate/UC-53b3c364-c55b-4c07-955c-5c8e4bff6c28/)
-- Certification on AWS Certified Cloud Practitioner Course by LinkedIn. [[View]](https://www.linkedin.com/learning/certificates/ef8853791b8735b47c5c3ec9c376223f7308989d01e69608c9460b1f071a77ae?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BSJuhBA4IQE2PqtONR5AOug%3D%3D)
-- Certification on Python Core Course by Sololearn. [[View]](https://www.sololearn.com/Certificate/1073-3043417/pdf)
+- **6+ published research papers** across agentic AI, MCP security, RAG systems, LLM safety, and computer vision — see [Publications](#publications).
+- **Graduate Teaching Assistantship** with full funding for Graduate Studies, University of North Dakota, 2020.
+- **Open-source contributions** to trustworthy agentic AI infrastructure — [ZT-MCP](https://github.com/sarmishra/ZT-MCP-Project), [HITL-AP](https://github.com/sarmishra/HITL-AP-Project), and [CHARM](https://github.com/sarmishra/CHARM-agentic-rag).
+- **AWS Certified Cloud Practitioner** — LinkedIn Learning. [[View]](https://www.linkedin.com/learning/certificates/ef8853791b8735b47c5c3ec9c376223f7308989d01e69608c9460b1f071a77ae)
+- **Deep Learning** — Udemy. [[View]](https://www.udemy.com/certificate/UC-53b3c364-c55b-4c07-955c-5c8e4bff6c28/)
+- **Python Core** — Sololearn. [[View]](https://www.sololearn.com/Certificate/1073-3043417/pdf)
