@@ -8,7 +8,7 @@ Zero-trust security architecture for the Model Context Protocol. Four deployable
 
 <b>Results</b> · 100% attack block rate · 39.5 ms policy enforcement latency · 0% false positive rate on a financial data pipeline prototype
 
-<b>Paper</b> · IEEE COINS 2026 &ensp; <b>Code</b> · [github.com/sarmishra/ZT-MCP-Project](https://github.com/sarmishra/ZT-MCP-Project)
+<b>Paper</b> · [IEEE COINS 2026](https://www.researchgate.net/profile/Saroj-Mishra-5/publication/404057994_ZT-MCP_A_Zero-Trust_Security_Architecture_for_MCP-Connected_AI_Agents/links/69e8429c6d72902a771b9983/ZT-MCP-A-Zero-Trust-Security-Architecture-for-MCP-Connected-AI-Agents.pdf) &ensp; <b>Code</b> · [github.com/sarmishra/ZT-MCP-Project](https://github.com/sarmishra/ZT-MCP-Project)
 
 ---
 
@@ -18,7 +18,7 @@ Seven-layer governance architecture for enterprise deployment of AI agents. An A
 
 <b>Results</b> · 94% true positive rate · 4.2% false positive rate · p99 latency of 212 ms
 
-<b>Paper</b> · IEEE COINS 2026 &ensp; <b>Code</b> · [github.com/sarmishra/HITL-AP-Project](https://github.com/sarmishra/HITL-AP-Project)
+<b>Paper</b> · [IEEE COINS 2026](https://www.researchgate.net/profile/Saroj-Mishra-5/publication/402737387_Trustworthy_Agentic_AI_Pipelines_Human-in-the-Loop_Oversight_Architectures_for_Secure_Enterprise_Deployment/links/69bb89c28c53216c011e59f0/Trustworthy-Agentic-AI-Pipelines-Human-in-the-Loop-Oversight-Architectures-for-Secure-Enterprise-Deployment.pdf) &ensp; <b>Code</b> · [github.com/sarmishra/HITL-AP-Project](https://github.com/sarmishra/HITL-AP-Project)
 
 ---
 
