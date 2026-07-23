@@ -3,7 +3,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?logo=googlescholar)](https://scholar.google.com/citations?user=rQZ9NSYAAAAJ&hl=en)
 
 
-AI systems are moving from demos to production faster than the tools to secure and verify them. That's the gap I work on. As an engineer I build agentic AI platforms, RAG pipelines, and multi-agent workflows for enterprises. As a researcher I publish on the trust layer that makes these systems safe to deploy — zero-trust architectures for MCP-connected agents, human-in-the-loop oversight patterns, and hallucination detection in agentic RAG.
+AI systems today do more than we can reliably trust them to do. Closing that gap is what I work on. As an engineer I build agentic AI platforms, RAG pipelines, and multi-agent workflows in production. As a researcher, I publish on the trust layer — zero-trust architectures for MCP-connected agents, human-in-the-loop oversight patterns, and hallucination detection in agentic RAG.
 
 #### Currently
 
