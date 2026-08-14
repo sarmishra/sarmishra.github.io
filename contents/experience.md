@@ -22,8 +22,3 @@ Taught and graded courses in Artificial Intelligence, Python, and Formal Languag
 <b>Python Developer Intern</b>, <i>Kalamazoo, MI (May 2021 - Aug 2021) </i>
 
 Built Python data pipelines and Flask/MySQL APIs to match users with ESG-aligned companies through financial dataset analysis.
-
-#### GENALIZE TECHNOLOGIES PVT LTD
-<b>Software Engineer</b>, <i>Kathmandu, Nepal (Jul 2018 - Dec 2019) </i>
-
-Built AI-powered computer vision systems (facial recognition, object detection, defect detection) achieving 90%+ accuracy, plus full-stack web platforms in Django, React, and AWS.
