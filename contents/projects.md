@@ -1,18 +1,14 @@
-Work spanning **research** (with published papers) and **personal projects** (applied builds that ship). Together they cover the trust layer of agentic AI — governance at the reasoning layer, security at the protocol layer, reliability at the retrieval layer — and practical implementations of RAG and local-LLM systems.
+My research forms a **Trustworthy Agentic AI** program spanning three layers of the agent execution stack. Each layer is a published paper with an open-source reference implementation:
+
+**Reasoning / Governance** · How agents decide → **HITL-AP**
+
+**Protocol / Security** · How agents access external infrastructure → **ZT-MCP**
+
+**Retrieval / Reliability** · How agents ground their outputs → **CHARM**
 
 ---
 
 ### Research
-
-#### ZT-MCP — Zero-Trust Security for MCP-Connected AI Agents
-
-Zero-trust security architecture for the Model Context Protocol. Four deployable enforcement components — Tool Identity Verifier (TIV), Access Policy Engine (APE), Data Classification and Output Filter (DCOF), and Protocol Audit Logger (PAL) — govern how AI agents access external tools and data. Aligned with NIST SP 800-207 and NIST AI RMF.
-
-<b>Results</b> · 100% attack block rate · 39.5 ms policy enforcement latency · 0% false positive rate on a financial data pipeline prototype
-
-<b>Paper</b> · [IEEE COINS 2026](https://www.researchgate.net/profile/Saroj-Mishra-5/publication/404057994_ZT-MCP_A_Zero-Trust_Security_Architecture_for_MCP-Connected_AI_Agents/links/69e8429c6d72902a771b9983/ZT-MCP-A-Zero-Trust-Security-Architecture-for-MCP-Connected-AI-Agents.pdf) &ensp; <b>Code</b> · [github.com/sarmishra/ZT-MCP-Project](https://github.com/sarmishra/ZT-MCP-Project)
-
----
 
 #### HITL-AP — Human-in-the-Loop Agentic Pipelines
 
@@ -24,15 +20,29 @@ Seven-layer governance architecture for enterprise deployment of AI agents. An A
 
 ---
 
+#### ZT-MCP — Zero-Trust Security for MCP-Connected AI Agents
+
+Zero-trust security architecture for the Model Context Protocol. Four deployable enforcement components — Tool Identity Verifier (TIV), Access Policy Engine (APE), Data Classification and Output Filter (DCOF), and Protocol Audit Logger (PAL) — govern how AI agents access external tools and data. Aligned with NIST SP 800-207 and NIST AI RMF.
+
+<b>Results</b> · 100% attack block rate · 39.5 ms policy enforcement latency · 0% false positive rate on a financial data pipeline prototype
+
+<b>Paper</b> · [IEEE COINS 2026](https://www.researchgate.net/profile/Saroj-Mishra-5/publication/404057994_ZT-MCP_A_Zero-Trust_Security_Architecture_for_MCP-Connected_AI_Agents/links/69e8429c6d72902a771b9983/ZT-MCP-A-Zero-Trust-Security-Architecture-for-MCP-Connected-AI-Agents.pdf) &ensp; <b>Code</b> · [github.com/sarmishra/ZT-MCP-Project](https://github.com/sarmishra/ZT-MCP-Project)
+
+---
+
 #### CHARM — Cascading Hallucination Aware Resolution and Mitigation
 
 Framework for detecting and mitigating cascading hallucinations in agentic RAG pipelines. Introduces a four-type taxonomy for compounding failures across multi-step reasoning, with detection components (SFV, CSCT, CPM, CRT) and a lightweight mitigation loop that operates during agent execution rather than as post-hoc filtering.
+
+<b>Results</b> · 89.4% cascade detection · 5.3% false positive rate · 215 ms average latency overhead · 82.1% error propagation reduction
 
 <b>Paper</b> · [arXiv:2606.04435](https://arxiv.org/abs/2606.04435) &ensp; <b>Code</b> · [github.com/sarmishra/CHARM-agentic-rag](https://github.com/sarmishra/CHARM-agentic-rag)
 
 ---
 
-### Personal Projects
+### Applied AI Systems
+
+Engineering builds demonstrating the same principles — local inference, RAG orchestration, and speech-driven interaction — in shippable form.
 
 #### Local RAG Chatbot — Fully Offline PDF/Text Assistant
 
