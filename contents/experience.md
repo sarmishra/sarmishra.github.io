@@ -24,6 +24,6 @@ Taught and graded courses in Artificial Intelligence, Python, and Formal Languag
 Built Python data pipelines and Flask/MySQL APIs to match users with ESG-aligned companies through financial dataset analysis.
 
 #### Jul 2018 — Dec 2019
-<b>Software Engineer</b> · Genalize Technologies Pvt Ltd &ensp; <i>Kathmandu, Nepal</i>
+<b>Software Engineer</b> · Freelancing &ensp; <i>Kathmandu, Nepal</i>
 
 Built AI-powered computer vision systems (facial recognition, object detection, defect detection) achieving 90%+ accuracy, plus full-stack web platforms in Django, React, and AWS.
