@@ -1,35 +1,39 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ersarojmishra-blue?logo=linkedin)](https://linkedin.com/in/ersarojmishra)
 [![GitHub](https://img.shields.io/badge/GitHub-sarmishra-181717?logo=github)](https://github.com/sarmishra)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-4285F4?logo=googlescholar)](https://scholar.google.com/citations?user=rQZ9NSYAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?logo=googlescholar)](https://scholar.google.com/citations?user=rQZ9NSYAAAAJ&hl=en)
 
 
-AI systems are becoming more capable than our ability to reliably verify, control, and trust their behavior. Closing that gap is the focus of my work. As an engineer, I build agentic AI platforms, RAG pipelines, and multi-agent workflows in production. As a researcher, I focus on the trust layer — zero-trust architectures for MCP-connected agents, human-in-the-loop oversight, and hallucination detection and mitigation in agentic RAG.
+AI systems today do more than we can reliably trust them to do. Closing that gap is what I work on — as an engineer building agentic AI platforms and RAG pipelines in production, and as a researcher publishing on the trust layer that makes these systems safe to deploy.
 
-#### Currently
+#### Current Role
 
-Senior AI Software Engineer at MaxModus, building production AI systems that automate complex business workflows using LLM agents, retrieval pipelines, and AWS-native infrastructure. Previously at Goldman Sachs, where I engineered regulated financial platforms supporting $25B+ in daily cash and securities movements.
+**Senior AI Software Engineer, MaxModus** &ensp; Building agentic workflows, AI email assistants, and intelligent document-processing systems on AWS. Previously **Software Engineer at Goldman Sachs**, engineering regulated financial infrastructure processing $25B/day.
 
-#### Research Focus
+#### Research
 
-Agentic AI · Multi-Agent Systems · Retrieval-Augmented Generation · LLM Security · Model Context Protocol · Trustworthy AI · Hallucination Mitigation
+**Trustworthy Agentic AI** — governance, security, and reliability across the agent execution stack. Published at IEEE COINS 2026 (×2) and arXiv.
+
+#### Focus Areas
+
+Agentic AI · MCP Security · RAG Systems · Human-in-the-Loop Oversight · Hallucination Mitigation · Multi-Agent Workflows
 
 #### Tech Stack
 
-**Languages** &ensp; Python · TypeScript · Java · SQL · C++
+**AI & Agents** &ensp; Python · LangChain · OpenAI SDK · Amazon Bedrock · Ollama · ChromaDB · pgvector
 
-**AI & LLM** &ensp; LangChain · OpenAI SDK · Amazon Bedrock · Ollama · ChromaDB · pgvector
+**Infrastructure** &ensp; AWS (Lambda, Bedrock, DynamoDB, RDS, S3, EC2) · Docker · Kubernetes · Terraform
 
-**Cloud & Infra** &ensp; AWS (Lambda, S3, DynamoDB, RDS, Bedrock, EC2) · Docker · Kubernetes · Terraform
+**Data & RAG** &ensp; PostgreSQL · Snowflake · Redis · Kafka · MongoDB
 
-**Data** &ensp; PostgreSQL · Snowflake · MongoDB · Redis · Kafka
+**Models I ship with** &ensp; Claude · GPT · Gemini · Llama · Mistral (local via Ollama)
 
-**Models & Runtimes** &ensp; Claude · GPT · Gemini · Llama · Ollama
+**Additional** &ensp; TypeScript · Java · SQL · C++
 
 #### Education
 
 M.S., Computer Science, University of North Dakota, USA, 2020—2022\
 B.E., Computer Engineering, Tribhuvan University, Nepal, 2013—2017
 
-#### Let's Connect
+#### Let's Talk
 
-Open to conversations on agentic AI systems, trustworthy AI, LLM security research, and challenging engineering problems. Best reached on [LinkedIn](https://linkedin.com/in/ersarojmishra).
+I'm interested in conversations on trustworthy agentic AI, LLM security, RAG reliability, research collaborations, and challenging production AI systems. Reach me on [LinkedIn](https://linkedin.com/in/ersarojmishra) or explore my [research on Google Scholar](https://scholar.google.com/citations?user=rQZ9NSYAAAAJ&hl=en).
