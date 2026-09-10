@@ -1,7 +1,7 @@
 #### 2025 — Present
 <b>Senior AI Software Engineer</b> · MaxModus &ensp; <i>Remote</i>
 
-Building agentic AI platforms, RAG systems, and multi-agent workflows on AWS — shipping zero-to-one products delivering up to 5–10 hours of weekly time savings in selected customer workflows.
+Building agentic AI platforms, AI roles, RAG systems, and multi-agent workflows on AWS — shipping zero-to-one products delivering up to 5–10 hours of weekly time savings in selected customer workflows.
 
 #### Sept 2022 — Jan 2025
 <b>Software Engineer</b> · Goldman Sachs &ensp; <i>Dallas, TX</i>
