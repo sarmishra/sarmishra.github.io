@@ -7,7 +7,7 @@ AI systems today do more than we can reliably trust them to do. Closing that gap
 
 #### Current Role
 
-**Senior AI Software Engineer, MaxModus** &ensp; Building agentic workflows, AI email assistants, and intelligent document-processing systems on AWS. Previously **Software Engineer at Goldman Sachs**, engineering regulated financial infrastructure processing $25B/day.
+**Senior AI Software Engineer, MaxModus** &ensp; Building agentic workflows, AI roles, AI email assistants, and intelligent document-processing systems on AWS. Previously **Software Engineer at Goldman Sachs**, engineering regulated financial infrastructure processing $25B/day.
 
 #### Research
 
