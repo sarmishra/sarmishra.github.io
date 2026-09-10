@@ -1,6 +1,6 @@
 ### Peer-Reviewed / Accepted
 
-- **Systematization of Knowledge: Security and Safety in the Model Context Protocol Ecosystem**, <i>arXiv preprint, 2025</i>. [[Paper]](https://doi.org/10.1007/978-3-032-32726-0_29)
+- **Systematization of Knowledge: Security and Safety in the Model Context Protocol Ecosystem**, <i>IntelliSys 2026</i>. [[Paper]](https://doi.org/10.1007/978-3-032-32726-0_29)
 - **Zero-Trust Security Architecture for MCP-Connected AI Agents: Enforcement Frameworks for Secure Tool Integration and Data Access Control**, <i>IEEE COINS 2026</i>. [[Paper]](https://www.researchgate.net/profile/Saroj-Mishra-5/publication/404057994_ZT-MCP_A_Zero-Trust_Security_Architecture_for_MCP-Connected_AI_Agents/links/69e8429c6d72902a771b9983/ZT-MCP-A-Zero-Trust-Security-Architecture-for-MCP-Connected-AI-Agents.pdf)
 - **Trustworthy Agentic AI Pipelines: Human-in-the-Loop Oversight Architectures for Secure Enterprise Deployment**, <i>IEEE COINS 2026</i>. [[Paper]](https://www.researchgate.net/profile/Saroj-Mishra-5/publication/402737387_Trustworthy_Agentic_AI_Pipelines_Human-in-the-Loop_Oversight_Architectures_for_Secure_Enterprise_Deployment/links/69bb89c28c53216c011e59f0/Trustworthy-Agentic-AI-Pipelines-Human-in-the-Loop-Oversight-Architectures-for-Secure-Enterprise-Deployment.pdf)
 - **A Face Recognition Method Using Deep Learning to Identify Mask and Unmask Objects**, <i>2022 IEEE World AI IoT Congress (AIIoT)</i>. [[Paper]](https://ieeexplore.ieee.org/document/9817324)
